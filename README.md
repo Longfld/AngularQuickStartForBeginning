@@ -11,7 +11,7 @@ To check your installed node as v4.x.x and npm as 3.x.x  version by running "nod
 
 After unzip, go to folder that contains package.json then: 
 
-1. run "npm install". Don't worry about warning message, as long as there is no read ERR message
+1. run "npm install". Don't worry about warning message, as long as there is no red ERR message
 
 2. run "npm start"
 
