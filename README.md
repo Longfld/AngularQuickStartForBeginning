@@ -1,4 +1,4 @@
-# ngQuickStartForBeginning
+# ng2QuickStartForBeginning
 This is quick start for very beginning
 
 If you have trouble to start https://github.com/angular/quickstart, try this:
