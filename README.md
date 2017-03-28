@@ -1,5 +1,5 @@
 # ng2QuickStartForBeginning
-This is quick start for very beginning(systemjs and angular material2 included)
+This is quick start for very beginning(systemjs and angular4 material included)
 
 If you have trouble to start https://github.com/angular/quickstart, try this:
 
