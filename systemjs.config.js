@@ -36,7 +36,10 @@
       },
       rxjs: {
         defaultExtension: 'js'
+      },
+      hammerjs:  { 
+                main: './hammer.js', 
+                defaultExtension: 'js'}
       }
-    }
   });
 })(this);
