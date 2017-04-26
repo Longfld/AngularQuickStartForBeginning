@@ -3,11 +3,11 @@ This is quick start for very beginning(systemjs and angular4 material included)
 
 If you:
 
-  have trouble to start https://github.com/angular/quickstart 
+    have trouble to start https://github.com/angular/quickstart 
   
-  Want a simply salution that understanable as a programmer
+    Want a simply salution that understanable as a programmer
   
-  want to use systemjs , 
+    want to use systemjs , 
   
 try this:
 
