@@ -1,9 +1,9 @@
-# ng2QuickStartForBeginning
+# Angular Quick Start For Beginning with systemjs
 This is quick start for very beginning(systemjs and angular4 material included)
 
-If you have trouble to start https://github.com/angular/quickstart, try this:
+If you have trouble to start https://github.com/angular/quickstart or to use systemjs , try this:
 
-Download or clone this package from "Clone or Download" green button on right top of https://github.com/Longfld/ngQuickStartForBeginning 
+Download or clone this package from "Clone or Download" green button on right top of https://github.com/Longfld/AngularQuickStartForBeginning 
 
 Make sure you log on or "run as administrator"  then install nodejs(it will include npm) from https://docs.npmjs.com/getting-started/installing-node.
 
