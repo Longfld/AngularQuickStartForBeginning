@@ -26,7 +26,8 @@
        '@angular/material': 'npm:@angular/material/bundles/material.umd.js',
 
       // other libraries
-      'rxjs':                      'npm:rxjs'
+      'rxjs':                      'npm:rxjs',
+      'hammerjs': 'npm:hammerjs'
     },
     // packages tells the System loader how to load when no filename and/or no extension
     packages: {
