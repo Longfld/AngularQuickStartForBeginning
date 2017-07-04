@@ -5,10 +5,12 @@ with angular material <button md-raised-button>Click Me !!</button> and datepick
 <br>
 Package with systemjs
 <hr>
-<div *ngFor="let column of columns">
-      <input mdInput [mdDatepicker]="startPicker" placeholder="Start {{column.label}}">
-      <button mdSuffix [mdDatepickerToggle]="startPicker"></button>
-      <md-datepicker #startPicker></md-datepicker>
+   <div *ngFor="let column of columns">
+      <md-input-container>
+         <input mdInput [mdDatepicker]="startPicker" placeholder="Start {{column.label}}">
+         <button mdSuffix [mdDatepickerToggle]="startPicker"></button>
+         <md-datepicker #startPicker></md-datepicker>
+      </md-input-container>
     </div>
 <hr>
 <hr>
