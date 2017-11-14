@@ -1,16 +1,16 @@
 <h1>My First Angular App</h1>
 This is angular 4 app for very beginning
 <br>
-with angular material <button md-raised-button>Click Me !!</button> and datepicker
+with angular material <button mat-raised-button>Click Me !!</button> and datepicker
 <br>
 Package with systemjs
 <hr>
    <div *ngFor="let column of columns">
-      <md-input-container>
-         <input mdInput [mdDatepicker]="startPicker" placeholder="Start {{column.label}}">
-         <button mdSuffix [mdDatepickerToggle]="startPicker"></button>
-         <md-datepicker #startPicker></md-datepicker>
-      </md-input-container>
+      <mat-input-container>
+         <input matInput [matDatepicker]="startPicker" placeholder="Start {{column.label}}">
+         <mat-datepicker-toggle matSuffix [for]="startPicker"></mat-datepicker-toggle>
+         <mat-datepicker #startPicker></mat-datepicker>
+      </mat-input-container>
     </div>
 <hr>
 <hr>
