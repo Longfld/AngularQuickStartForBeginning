@@ -5,6 +5,7 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 import {HttpModule} from '@angular/http';
 import {MyMaterialModule} from './my.material.module';
+import 'rxjs/Rx';
 import 'hammerjs/hammer';
 
 @NgModule({
