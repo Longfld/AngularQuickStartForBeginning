@@ -1,5 +1,5 @@
 # Angular Quick Start For Beginning with systemjs
-This is quick start for very beginning(systemjs and angular4 material included)
+This is quick start for very beginning(systemjs and angular, material & rxjs 6 included)
 
 If you:
 
