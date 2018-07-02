@@ -6,11 +6,9 @@ with angular material <button mat-raised-button>Click Me !!</button> and datepic
 Package with systemjs
 <hr>
    <div *ngFor="let column of columns">
-      <mat-input-container>
          <input matInput [matDatepicker]="startPicker" placeholder="Start {{column.label}}">
          <mat-datepicker-toggle matSuffix [for]="startPicker"></mat-datepicker-toggle>
          <mat-datepicker #startPicker></mat-datepicker>
-      </mat-input-container>
     </div>
 <hr>
 <hr>
