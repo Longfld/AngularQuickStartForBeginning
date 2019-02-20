@@ -37,7 +37,7 @@ import {
   MatTooltipModule,
   MatStepperModule,
 } from '@angular/material';
-import {HttpModule} from '@angular/http';
+
 import {CdkTableModule} from '@angular/cdk/table';
 
 @NgModule({
